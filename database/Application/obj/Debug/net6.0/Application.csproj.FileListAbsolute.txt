@@ -1,0 +1,17 @@
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Application.deps.json
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Application.dll
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Application.pdb
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Domain.dll
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Persistence.dll
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Persistence.pdb
+/Users/warpskip/abtx/database/Application/bin/Debug/net6.0/Domain.pdb
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.dll
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/Application.pdb
+/Users/warpskip/abtx/database/Application/obj/Debug/net6.0/ref/Application.dll

@@ -1,0 +1,12 @@
+/Users/warpskip/abtx/database/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/warpskip/abtx/database/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/warpskip/abtx/database/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/warpskip/abtx/database/Persistence/obj/Debug/net6.0/ref/Persistence.dll
