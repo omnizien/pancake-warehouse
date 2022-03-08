@@ -2,9 +2,9 @@ import { Injectable } from '@angular/core';
 import { ethers } from 'ethers';
 import { default as tokenAddress } from '../addresses/tokens-mainnet.json';
 
-export const pancake_address = '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73';
-export const bakery_address = '0x01bF7C66c6BD861915CdaaE475042d3c4BaE16A7';
-export const ape_address = '0x0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6';
+export const pancake_address = 'cA143Ce32Fe78f1f7019d7d551a6402fC5350c73';
+export const bakery_address = '01bF7C66c6BD861915CdaaE475042d3c4BaE16A7';
+export const ape_address = '0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6';
 
 @Injectable({
   providedIn: 'root',
@@ -14,14 +14,10 @@ export class ArbitrageService {
 
  
 
-  pancakeRouter = '0x10ED43C718714eb63d5aA57B78B54704E256024E';
-  bakeryRouter = '0xCDe540d7eAFE93aC5fE6233Bee57E1270D3E330F';
-  apeRouter = '0xcF0feBd3f17CEf5b47b0cD257aCf6025c5BFf3b7';
-
   contract_address = '0xEB537CaBb5bb8bcaE71108e2DdA1Ba9B8e576CAa';
 
   provider = new ethers.providers.JsonRpcProvider(
-    'https://bsc-dataseed.binance.org/'
+    ''
   );
   signer = new ethers.Wallet(
     `0x${'44410aa438c163222cafe93153dd582bdf7c3da30d688b7013086121'}`,
