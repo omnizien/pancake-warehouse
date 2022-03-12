@@ -1,0 +1,54 @@
+<div id="toolbar">
+  
+  <div class="logo"><img id="yeti" src="/assets/yeti.png" width="50" height="50" alt="image"   > </div>
+  <p> </p>
+</div>
+<body> 
+
+  <DIV class="container">  
+ 
+    <div>
+      <h3>
+        Multiple Tables
+        <small>
+          <a
+            href="https://github.com/swimlane/ngx-datatable/blob/master/src/app/basic/multiple.component.ts"
+            target="_blank"
+          >
+            Source
+          </a>
+        </small>
+      </h3>
+      <ngx-datatable
+        class="material"
+        [rows]="rows1"
+        [columns]="columns1"
+        [columnMode]="ColumnMode.force"
+        [headerHeight]="50"
+        [footerHeight]="0"
+        [rowHeight]="100"
+      >
+      </ngx-datatable>
+      <br />
+      <ngx-datatable
+        class="material"
+        [rows]="rows2"
+        [columns]="columns2"
+        [headerHeight]="50"
+        [footerHeight]="50"
+        rowHeight="auto"
+      >
+      </ngx-datatable>
+    </div>
+
+
+  </DIV>
+
+
+</body> 
+ 
+<!-- <img src="https://i.imgur.com/kDDFvUp.png" class="rotate" width="100" height="100" />
+
+<img src="https://i.imgur.com/kDDFvUp.png" class="rotate" width="100" height="100" />
+
+<img src="https://i.imgur.com/kDDFvUp.png" class="rotate" width="100" height="100" /> -->
