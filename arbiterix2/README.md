@@ -1,6 +1,6 @@
 # Arbiterix2
 
- accepting donations for ongoing development :) :
+ accepting donations for ongoing development, wallet address:
 0xB656bD8D6168c96040A81519cFA112f17cC684bf
 
 
