@@ -1,5 +1,12 @@
 # Arbiterix2
 
+ accepting donations for ongoing development :) :
+0xB656bD8D6168c96040A81519cFA112f17cC684bf
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
